@@ -1,4 +1,4 @@
-#have a look on the read me file before proveeding to code
+#have a look on the read me file before proceeding to code
 from pyautogui import *
 import pyautogui
 import time
